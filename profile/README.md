@@ -21,7 +21,8 @@
 | MCU-Code-Testing  | Code files that were used to test various functionality with the Pico. Examples include testing I2C, ADC, or temperature sensor. |
 | SDCard-Test  | Code files that were used to test the no-FatFS Pico library for writing to the micro-SD card. |
 
-	
+<br/><br/>
+###### Organization Icon: <a href="https://www.flaticon.com/free-icons/solar-panel" title="solar panel icons">Solar panel icons created by Good Ware - Flaticon</a>
 	
 	
 	
