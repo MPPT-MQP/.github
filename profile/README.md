@@ -1,5 +1,5 @@
 ## WPI Max Power Point Tracking MQP 2024-2025
-### MQP Report: https://digital.wpi.edu/
+### MQP Report: <a href="https://digital.wpi.edu/" target="_blank"> https://digital.wpi.edu/</a>
 #### Group Members:
 - Frank Parsons
 - Kyle Rabbitt
