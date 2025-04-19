@@ -17,7 +17,7 @@
 | PCB-PM-Test  | PCB and schematic files for the power monitor test board.  |
 | PCB-Main  | PCB and schematic files for the main PCB. PDF’s showing each layer of the board and the bill of materials with cost are included.  |
 | MCU-Code  | Contains all files and libraries that are used for programming the Pico. |
-| Test-Data-Scripts  | Solar panel Python scripts that graph data from CSV files. Collected data from numerous tests is also included, along with generated graphs. |
+| Test-Data-Scripts  | Solar panel Python scripts that graph data from CSV files. Collected data from numerous tests is also included, along with generated graphs and animations. |
 | MCU-Code-Testing  | Code files that were used to test various functionality with the Pico. Examples include testing I2C, ADC, or temperature sensor. |
 | SDCard-Test  | Code files that were used to test the no-FatFS Pico library for writing to the micro-SD card. |
 
